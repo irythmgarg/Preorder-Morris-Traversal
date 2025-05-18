@@ -46,9 +46,11 @@ Morris Traversal avoids extra space by:
 ## 🧠 Example
 
 ```cpp
-  1
- / \
-2   3
+    1
+   / \
+  2   3
+ /
+4
 
 🔁 Preorder: [1, 2, 4, 3]
 
